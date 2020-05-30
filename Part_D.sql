@@ -10,9 +10,9 @@
 /* date:        27/05/2000 */
 
 /* Clear Tables */
---DROP TABLE order_T;
---DROP TABLE purchased_pizza;
---DROP TABLE pizza;
+DROP TABLE IF EXISTS order_T;
+DROP TABLE IF EXISTS purchased_pizza;
+DROP TABLE IF EXISTS pizza;
 
 /* Create Tables */
 CREATE TABLE order_T
