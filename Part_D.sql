@@ -1,13 +1,13 @@
 /* (Database Fundamentals, Assignment Part D, Autumn 2020 */
-/* First author's name: Kyle Todd */
+/* First author's name: Kyle Todd (13572692)*/
 /* First author's email: 13572692@student.uts.edu.au*/
-/* Second author's name: Nina Tran */
+/* Second author's name: Nina Tran (13568631)*/
 /* Second author's email: 13568631@student.uts.edu.au*/
-/* Third author's name: Lachlan Alcott */
+/* Third author's name: Lachlan Alcott (13544818)*/
 /* Third author's email: 13544818@student.uts.edu.au*/
 /* script name: Tut4_38_Tran_13568631_Alcott_13544818_Todd_13572692_PartD.SQL */
 /* purpose:     Builds PostgreSQL tables for Pizza database */
-/* date:        27/05/2000 */
+/* date:        27/05/2020 */
 
 /* Clear Tables */
 DROP TABLE IF EXISTS order_T;
